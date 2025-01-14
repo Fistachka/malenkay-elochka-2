@@ -2,8 +2,8 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka-2</repo>
-  <version>v1.0.9</version>
-  <next number="1" owner="stolbitsa" repo="elochka"/>
+  <version>v1.0.10</version>
+  <next number="1" owner="fistachka" repo="malenkay-elochka-3"/>
   <readme>
     <ru>655113f4b97bfd6ed409272fd08eeb1216312cf758ab543d8acca493f8c758c2</ru>
     <en>fafedc28d7cc05b859f1eb438d30b80934e5e12b9f2759802a364df26c031758</en>
